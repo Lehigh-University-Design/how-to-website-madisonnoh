@@ -1,16 +1,16 @@
-<head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alice&family=Nunito:ital,wght@1,700&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: "Alice",sans-serif;
-  }
-</style>
-</head>
+body{
+  background-color: green;
+  font-family: italic;
+}
+
 h1 {
   text-align: center;
   font-size: 52px; 
 }
+
 h2{
   text-align: center;
   font-size: 35px;
 }
+
+
