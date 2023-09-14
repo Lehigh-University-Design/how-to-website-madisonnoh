@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #00461882;
   font-family: italic;
 }
@@ -6,6 +6,7 @@ body{
 h1 {
   text-align: center;
   font-size: 52px; 
+  font-family: 'Alice', serif;
 }
 
 h2{
