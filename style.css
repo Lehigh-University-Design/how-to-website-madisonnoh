@@ -37,8 +37,8 @@ ul, ol {
 }
 
 .dry {
-  display:block;
-  align: right;
+  position: absolute;
+  right: 0px;
   height: 300px;
   width: 300px;
 }
