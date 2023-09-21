@@ -1,7 +1,7 @@
 body {
   background-color: #00461882;
   font-family: 'Alice', serif;
-  line-height: 2px
+  line-height: 15px
 }
 
 h1 {
@@ -17,12 +17,18 @@ h2 {
 }
 
 li {
-  margin: 5px; 
+  margin-top: 5px; 
 }
 
 .cookies {
-  margin: 0;
+  margin-left: 15px;
   border: 1px solid white;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  margin-left: 35px;
 }
 
 CODEPEN
