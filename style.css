@@ -16,7 +16,7 @@ h2 {
 }
 
 .cookies {
-  margin: 0;
+  margin-left: 570px;
   border: 1px solid white;
 }
 h3 {
@@ -24,15 +24,15 @@ h3 {
 }
 
 ul, ol {
-  margin-left: 20px;
+  margin-left: 150px;
 }
 
 .dry {
-  margin-left: 25px;
+  margin-left: 75px;
 }
 
 .dough {
-  margin-left: 25px;
+  margin-left: 75px;
 
 
 CODEPEN
