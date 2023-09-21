@@ -32,10 +32,12 @@ h3 {
 ul, ol {
   margin-left: 50px;
   line-height: 25px;
+  width:500px;
 }
 
 .dry {
-  margin-left: 45px;
+  display:block;
+  align: right;
   height: 300px;
   width: 300px;
 }
