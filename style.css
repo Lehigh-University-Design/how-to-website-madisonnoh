@@ -21,7 +21,7 @@ h2 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid white;
+  border: 2px solid white;
 }
 h3 {
   text-align: left;
@@ -42,6 +42,7 @@ ul, ol {
   top: 900px;
   height: 300px;
   width: 300px;
+  border: 2px solid white;
 }
 
 .dough {
@@ -50,6 +51,7 @@ ul, ol {
   height: 300px;
   width: 300px;
   top: 1300px;
+  border: 2px solid white;
 
 
 CODEPEN
