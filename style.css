@@ -39,7 +39,7 @@ ul, ol {
 .dry {
   position: absolute;
   right: 50px;
-  top: 1000px;
+  top: 900px;
   height: 300px;
   width: 300px;
 }
@@ -49,6 +49,7 @@ ul, ol {
   right: 25px;
   height: 300px;
   width: 300px;
+  top: 800px;
 
 
 CODEPEN
