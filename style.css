@@ -7,6 +7,7 @@ h1 {
   text-align: center;
   font-size: 52px; 
   font-family: 'Playfair Display', serif;
+  border-style: solid; 
 }
 
 h2 {
@@ -15,6 +16,7 @@ h2 {
   font-size: 35px;
   font-family: 'Playfair Display', serif;
   padding-top: 25px;
+  border-style: solid;
 }
 
 .cookies {
@@ -28,6 +30,7 @@ h3 {
   padding-top: 40px;
   margin-left: 50px;
   font-size: 20px;
+  border-style: solid;
 }
 
 ul, ol {
