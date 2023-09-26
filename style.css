@@ -1,0 +1,58 @@
+body {
+  background-color: #00461882;
+  font-family: 'Alice', serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 52px; 
+  font-family: 'Playfair Display', serif;
+  border-style: solid; 
+}
+
+h2 {
+  text-align: left;
+  margin-left: 50px;
+  font-size: 35px;
+  font-family: 'Playfair Display', serif;
+  padding-top: 25px;
+}
+
+.cookies {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid white;
+}
+h3 {
+  text-align: left;
+  padding-top: 40px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+
+ul, ol {
+  margin-left: 50px;
+  line-height: 25px;
+  width:650px;
+}
+
+.dry {
+  position: absolute;
+  right: 75px;
+  top: 900px;
+  height: 300px;
+  width: 300px;
+  border: 3px solid white;
+}
+
+.dough {
+  position: absolute;
+  right: 25px;
+  height: 300px;
+  width: 300px;
+  top: 1300px;
+  border: 3px solid white;
+
+
+CODEPEN
